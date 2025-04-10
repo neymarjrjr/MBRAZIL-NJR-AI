@@ -47,6 +47,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+<a href="https://youtu.be/xIVn6Cxsx5w?si=w_jy6vZJLqPxj0q0"><img title="DEPLOYMENT TUTORIALS" src="https://img.shields.io/badge/DEPLOYMENT TUTORIAL-h?color=red&style=for-the-badge&logo=YouTube"></a>
+
 3.𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗨𝗜𝗟𝗗𝗣𝗔𝗖𝗞𝗦.
                                
  ```bash
