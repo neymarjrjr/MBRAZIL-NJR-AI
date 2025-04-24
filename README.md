@@ -37,7 +37,7 @@
  
 # 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍
 ---
-1. ***Get [`𝐂𝐑𝐄𝐃𝐒.𝐉𝐒𝐎𝐍`](https://tyrax-session-2.onrender.com/pair)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+#1. ***Get [`𝗦𝗘𝗦𝗦𝗜𝗢𝗡/𝗖𝗥𝗘𝗗𝗦𝗝𝗦𝗢𝗡`](https://tyrax-session-2.onrender.com/pair)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
