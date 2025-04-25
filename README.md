@@ -5,7 +5,12 @@
 
 | CMD  ⁠➜ | Bot | Group cmds| ai Search | Download | Tools | Ai | Game | Fun | Owner | Bug | Convert | List |
 | --------| --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- | ----| --------| -----|
+
 | Working➜|✅  |   ✅  |    ✅  |     ✅   |   ✅  | ✅ |   ✅ |  ✅ |  ✅   | ✅  |    ✅   |  ✅  |
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈+🪩+🎭;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙱𝙾𝚃+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+ᴅʀᴀɢᴏɴ-ᴀɪ+🕸️;ɢɪᴠᴇ+ᴀ+sᴛᴀʀ+ʙʀᴜʜ+⚡+💝+☄️)](https://git.io/typing-svg)
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
