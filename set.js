@@ -26,7 +26,7 @@ const dev = process.env.DEV || '254702713600';
 const menu = process.env.MENU_TYPE || 'VIDEO';
 const DevRaven = dev.split(",");
 const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
-const bad = process.env.BAD_WORD || 'fuck';
+const bad = process.env.BAD_WORD || 'fuck,ku';
 const autoread = process.env.AUTOREAD || 'FALSE';
 const antidel = process.env.ANTIDELETE || 'TRUE';
 
