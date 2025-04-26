@@ -42,7 +42,7 @@
 
 # 𝐌𝐔𝐒𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐅𝐎𝐑𝐊 
 
-2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Kingdragony/DRAGON-AI/fork)***
+2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[𝗙𝗢𝗥𝗞 𝗗𝗥𝗔𝗚𝗢𝗡~𝗔𝗜]`](https://github.com/Kingdragony/DRAGON-AI/fork)***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
