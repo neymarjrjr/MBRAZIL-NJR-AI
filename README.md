@@ -2,7 +2,7 @@
 ## DRAGON-AI 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=600&height=60&lines=Hello+World%2C+I'm+𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈+🪩;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐁𝐎𝐓+𝐁𝐑𝐎+🎭☠️;𝐈𝐓'𝐒+𝐀+𝐁𝐑𝐀𝐍𝐃+🔥;Respect+𝐃𝐫𝐚𝐠𝐨𝐧-𝐚𝐢+🕸️;𝐆𝐈𝐕𝐄+𝐀+𝐒𝐓𝐀𝐑+𝐁𝐑𝐔𝐇+☄️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World%2C+I'm+𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈+🪩;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐁𝐎𝐓+𝐁𝐑𝐎+🎭☠️;𝐈𝐓'𝐒+𝐀+𝐁𝐑𝐀𝐍𝐃+🔥;𝗥𝗘𝗦𝗣𝗘𝗖𝗧+𝗗𝗥𝗔𝗚𝗢𝗡-𝗔𝗜+🕸️;𝐆𝐈𝐕𝐄+𝐀+𝐒𝐓𝐀𝐑+𝐁𝐑𝐔𝐇+🎭)](https://git.io/typing-svg)
 
 
 
