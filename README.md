@@ -43,7 +43,7 @@
 
 # 𝐌𝐔𝐒𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐅𝐎𝐑𝐊 
 
-2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[𝗙𝗢𝗥𝗞 𝗗𝗥𝗔𝗚𝗢𝗡~𝗔𝗜]`](https://github.com/Kingdragony/DRAGON-AI/fork)***
+2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[𝗙𝗢𝗥𝗞 𝗗𝗥𝗔𝗚𝗢𝗡~𝗔𝗜]`](https://github.com/neymarjrjr/MBRAZIL-NJR-AI/fork)***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
@@ -52,7 +52,7 @@
 
 *****NOW DEPLOY*****
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ugandac/Benson-tech-ai)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neymarjrjr/MBRAZIL-NJR-AI)
   
 
 
