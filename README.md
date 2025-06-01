@@ -62,6 +62,6 @@
 <br>
 <div align="center">
 
-<img alt="DRAGON-AI" height="100" src="https://i.imgur.com/Et0jQQl.jpeg">
+<img alt="MBRAZIL-AI" height="100" src="https://i.imgur.com/Et0jQQl.jpeg">
 
-  <p align="center"><img src="https://img.shields.io/badge/DEVELOPED%20BY -ARLODRAGON-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/DEVELOPED%20BY -MBRAZIL-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
