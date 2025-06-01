@@ -1,8 +1,8 @@
 
-## DRAGON-AI 
+## MBRAZIL-AI
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World%2C+I'm+𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈+🪩;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐁𝐎𝐓+𝐁𝐑𝐎+🎭☠️;𝐈𝐓'𝐒+𝐀+𝐁𝐑𝐀𝐍𝐃+🔥;𝗥𝗘𝗦𝗣𝗘𝗖𝗧+𝗗𝗥𝗔𝗚𝗢𝗡-𝗔𝗜+🕸️;𝐆𝐈𝐕𝐄+𝐀+𝐒𝐓𝐀𝐑+𝐁𝐑𝐔𝐇+🎭)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World%2C+I'm+MBRAZIL-𝐀𝐈+🪩;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐁𝐎𝐓+𝐁𝐑𝐎+🎭☠️;𝐈𝐓'𝐒+𝐀+𝐁𝐑𝐀𝐍𝐃+🔥;𝗥𝗘𝗦𝗣𝗘𝗖𝗧+MBRAZIL-𝗔𝗜+🕸️;𝐆𝐈𝐕𝐄+𝐀+𝐒𝐓𝐀𝐑+𝐁𝐑𝐔𝐇+🎭)](https://git.io/typing-svg)
 
 
 
@@ -11,14 +11,14 @@
 <p align="center">
 
    <a href="https://youtube.com/c/SuhailTechInfo">
-    <img alt="DRAGON-AI" height="300" src="https://files.catbox.moe/09deys.jpg">
+    <img alt="MBRAZIL-AI" height="300" src="https://files.catbox.moe/09deys.jpg">
   </a>
 </p>
   
    
 <p align="center">
 
-  <a aria-label="WHATSAPP ME" href="https://wa.me/+254702713600" target="_blank">
+  <a aria-label="WHATSAPP ME" href="https://wa.me/+255676787885" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/FOR 𝐇𝐄𝐋𝐏 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑🎭-25D366?style=for-the-badge&logo=WhatsApp&logoColor=blue" />
   </a>
  
@@ -26,10 +26,10 @@
 
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈🛸}/count.svg" alt="kingdragonyInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KingdragonyInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{MBRAZIL-𝐀𝐈🛸}/count.svg" alt="mbrazilInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mbrazilInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet 𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈🎭, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. 𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈🛰️ whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. 🎭</p
+  <p align="center"> Meet MBRAZIL-𝐀𝐈🎭, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. MBRAZIL-𝐀𝐈🛰️ whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. 🎭</p
   
   
  
@@ -43,7 +43,7 @@
 
 # 𝐌𝐔𝐒𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐅𝐎𝐑𝐊 
 
-2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[𝗙𝗢𝗥𝗞 𝗗𝗥𝗔𝗚𝗢𝗡~𝗔𝗜]`](https://github.com/neymarjrjr/MBRAZIL-NJR-AI/fork)***
+2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[FORK MBRAZIL-AI]`](https://github.com/neymarjrjr/MBRAZIL-NJR-AI/fork)***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
