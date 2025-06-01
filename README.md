@@ -43,7 +43,7 @@
 
 # 𝐌𝐔𝐒𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐅𝐎𝐑𝐊 
 
-2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[FORK MBRAZIL-AI]`](https://github.com/neymarjrjr/MBRAZIL-NJR-AI/fork)***
+2.  ***`[𝗦𝗧𝗔𝗥 ]⭐` repository & Click [`[FORK MBRAZIL-NJR-AI]`](https://github.com/neymarjrjr/MBRAZIL-NJR-AI/fork)***
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
