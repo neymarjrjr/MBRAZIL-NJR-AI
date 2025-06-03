@@ -4,7 +4,7 @@
   "keywords": [
     "bot",
     "whatsapp",
-    "dragon",
+    "mbrazil",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -20,14 +20,14 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of DRAGON-AI Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of MBRAZIL-AI Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "value": ".",
       "required": false
 
     },
     "DEV": {
       "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254702713600,254746764468",
-      "value": "254702713600",
+      "value": "255676787885",
       "required": true
     },
     "ANTIDELETE": {
@@ -79,7 +79,7 @@
 },
  "WA_PRESENCE": {
       "description": "Input either recording, typing, online, or leave it blank. This enables bot to simulate typing or recording or online status even if you're not online.",
-      "value": "recording",
+      "value": "online",
       "required": true
 },
  "WELCOMEGOODBYE": {
@@ -95,17 +95,17 @@
 },
  "ANTILINK_ALL": {
       "description": "Input TRUE if you want bot to kick users sending any links.",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": true
 },
  "ANTIBOT": {
       "description": "Input TRUE if you want bot to kick other bots from group",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": false
 },
  "CODE": {
       "description": "Input you country code here without + eg 254, it Will be used to Eliminate foreigners from the group once prompted.",
-      "value": "254",
+      "value": "255",
       "required": true
 },
  "SESSION": {
@@ -125,17 +125,17 @@
 },
  "APP_NAME": {
       "description": "Input your app name that you put above, Must be in small letters.",
-     "value": "DRAGON-AI",
+     "value": "TRUE",
      "required": true
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
-      "value": "Arlodragon 🐯",
+      "value": "MBRAZIL🇧🇷",
       "required": false
 },
  "STICKER_PACKNAME": {
       "description": "Input sticker data for packname",
-      "value": "Dragon-ai",
+      "value": "Mbrazil-njr",
       "required": false
 },
  "GPT_INBOX": {
