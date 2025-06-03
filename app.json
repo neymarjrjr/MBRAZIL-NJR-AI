@@ -49,7 +49,7 @@
     },
     "HEROKU_API": {
       "description": "Put a Heroku api key here, will be required to update vars in your Dm",
-      "value": "FALSE",
+      "value": "",
       "required": true
     },
     "BAD_WORD": {
