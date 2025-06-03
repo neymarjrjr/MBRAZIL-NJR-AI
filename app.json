@@ -125,7 +125,7 @@
 },
  "APP_NAME": {
       "description": "Input your app name that you put above, Must be in small letters.",
-     "value": "TRUE",
+     "value": "",
      "required": true
 },
  "STICKER_AUTHOR": {
